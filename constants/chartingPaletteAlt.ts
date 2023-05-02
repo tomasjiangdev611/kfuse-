@@ -1,0 +1,21 @@
+const chartingPaletteAlt = [
+  '#f0f9e8',
+  '#ccebc5',
+  '#a8ddb5',
+  '#7bccc4',
+  '#43a2ca',
+  '#0868ac',
+  '#f1eef6',
+  '#d4b9da',
+  '#c994c7',
+  '#df65b0',
+  '#dd1c77',
+  '#980043',
+  '#4e79a7',
+  '#59a14f',
+  '#edc948',
+  '#e15759',
+  '#b07aa1',
+  '#ff9da7',
+];
+export default chartingPaletteAlt;
